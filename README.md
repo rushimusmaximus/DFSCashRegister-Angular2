@@ -1,7 +1,5 @@
 # DFSCashRegister-Angular2
-An implementation of the DF Studio "cash register" exercise in Angular 2 (as a means to try it out).
-
-The challenge was given to recent DF Studio dev applicants, described as follows:
+An implementation of the DF Studio "cash register" exercise in Angular 2 (as a means to try it out). The challenge was given to recent DF Studio dev applicants, described as follows:
 
 > Given a fixed, limited, catalog of items for sale, allow a Checker to quickly process the order of a customer, compute sales tax at 7.2% and display a receipt. 
 >
