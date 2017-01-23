@@ -7,7 +7,8 @@ import {Component} from 'angular2/core';
         '.additem { margin-right: 10px; }',
         '#items-table-body td {line-height: 32px}',
         '.itemQuantity {padding-right: 10px}',
-        'h3 { display: inline-block; margin-bottom: 14px }'
+        'h3 { display: inline-block; margin-bottom: 14px }',
+        '.column { width: 48%; margin-left: 20px; float: left; }'
     ]
 })
 
